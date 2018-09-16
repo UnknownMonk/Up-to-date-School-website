@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+
+SITEMAP: https://kenjonesrealestateschool.com/sitemap.xml
